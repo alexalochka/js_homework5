@@ -54,7 +54,7 @@ let services = {
     };
 
 services['blue'] = '10 грн';
-console.log(services);    
+// console.log(services);    
 console.log("Total summ: "+services.price());
 console.log("Max.Price: "+services.maxPrice());
 console.log("Min.Price: "+services.minPrice());
