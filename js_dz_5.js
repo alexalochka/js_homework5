@@ -59,7 +59,3 @@ console.log("Total summ: "+services.price());
 console.log("Max.Price: "+services.maxPrice());
 console.log("Min.Price: "+services.minPrice());
 
-//console.log(Number.parseInt('12px'));
-// console.log(services);
-// let test = [ 10, 80, 100 ];
-// console.log(Math.min(test));
